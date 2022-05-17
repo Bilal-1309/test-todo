@@ -1,0 +1,15 @@
+.add {
+    width: 1000px;
+    margin: auto;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.input {
+    width: 80%;
+    height: 40px
+}
+.btn {
+    width: 17%;
+    height: 40px;
+}
